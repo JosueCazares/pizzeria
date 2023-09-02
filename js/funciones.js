@@ -35,5 +35,6 @@ function randomNumbre (){
 
 
 function ran(
-    
+
 )
+function ren()
