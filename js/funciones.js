@@ -32,3 +32,8 @@ function randomNumbre (){
     const res = redondeo + 20;
     console.log(res);
 }
+
+
+function ran(
+    
+)
